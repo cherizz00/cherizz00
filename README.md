@@ -1,35 +1,59 @@
-# 💫 About Me
+# 🚀 Prasanna Kumar | Full Stack + AI Engineer  
 
-👨‍💻 **Current Focus**  
-I build real-world, production-ready **full-stack applications** using **React, Node.js, MongoDB**, and **AI-powered features**, with a strong focus on scalability and clean architecture.
-
-🤝 **Collaboration**  
-Open to collaborating on **open-source projects**, **startup ideas**, and **impactful Web / AI products**.
-
-🆘 **Seeking Guidance In**  
-System design, scalable backend systems, cloud-native deployments, and AI integration.
-
-🌱 **Currently Learning**  
-Advanced full-stack optimization, **AWS**, **RAG systems**, and modern AI tooling.
-
-💬 **Ask Me About**  
-Full-stack development, project building, portfolio creation, and learning tech efficiently.
-
-⚡ **Fun Fact**  
-I learn best by building fast and shipping real products 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Real+World+Products;React+%7C+Node+%7C+MongoDB+%7C+AI" />
+</p>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-kumar-399364261/)  
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuco_20)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherizz007@gmail.com)
+## 🔥 About Me  
+
+👨‍💻 Full-stack developer specializing in **React, Node.js, MongoDB & AI systems**  
+🚀 I build **real-world, scalable applications** (not just tutorials)  
+🧠 Currently learning **System Design, AWS & RAG architectures**  
+🤝 Open to collaborations on **startups, open-source & AI tools**  
 
 ---
 
-## 💻 Tech Stack
+## 🧠 What I Bring  
 
-### 🗣 Languages
+✔️ Production-ready full-stack applications  
+✔️ Clean & scalable architecture  
+✔️ REST APIs & backend optimization  
+✔️ AI integration (LLMs, RAG systems)  
+✔️ Fast learner + fast builder mindset  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 AI SaaS Platform  
+- Built with React + Node.js + OpenAI  
+- Implemented **RAG-based intelligent responses**  
+- Authentication + scalable backend  
+🔗 https://your-project-link.com  
+
+---
+
+### 🔹 Real-Time Chat Application  
+- WebSocket-based messaging system  
+- Redis caching for performance  
+- Fully responsive UI  
+🔗 https://your-project-link.com  
+
+---
+
+### 🔹 Portfolio + Blog Platform  
+- SEO optimized personal website  
+- Markdown blogging system  
+- Deployed on Vercel  
+🔗 https://your-project-link.com  
+
+---
+
+## 🛠 Tech Stack  
+
+### ⚡ Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,20 +61,25 @@ I learn best by building fast and shipping real products 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧩 Frameworks & Libraries
+---
+
+### 🧩 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### 🗄 Databases
+---
+
+### 🗄 Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁ Cloud & Tools
+---
+
+### ☁ DevOps & Tools  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,11 +90,54 @@ I learn best by building fast and shipping real products 🚀
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=cherizz00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=cherizz00&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherizz00&theme=dark&hide_border=false&layout=compact)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cherizz00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cherizz00&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherizz00&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=cherizz00&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasanna-kumar-399364261/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasanna-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/tuco_20">
+    <img src="https://img.shields.io/badge/X-Tuco-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="mailto:cherizz007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Goals  
+
+🚀 Master system design  
+☁ Deep dive into AWS & cloud-native apps  
+🤖 Build advanced AI products  
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+I don’t just learn tech — I **ship it fast 🚀**
