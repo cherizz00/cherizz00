@@ -9,45 +9,28 @@
 ## 🔥 About Me  
 
 👨‍💻 Full-stack developer specializing in **React, Node.js, MongoDB & AI systems**  
-🚀 I build **real-world, scalable applications** (not just tutorials)  
+🚀 I build **real-world, scalable applications**  
 🧠 Currently learning **System Design, AWS & RAG architectures**  
 🤝 Open to collaborations on **startups, open-source & AI tools**  
 
 ---
 
-## 🧠 What I Bring  
+## 🧠 Core Focus  
 
-✔️ Production-ready full-stack applications  
-✔️ Clean & scalable architecture  
-✔️ REST APIs & backend optimization  
-✔️ AI integration (LLMs, RAG systems)  
-✔️ Fast learner + fast builder mindset  
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 AI SaaS Platform  
-- Built with React + Node.js + OpenAI  
-- Implemented **RAG-based intelligent responses**  
-- Authentication + scalable backend  
-🔗 https://your-project-link.com  
+⚡ Building scalable full-stack apps  
+🤖 AI integration (LLMs, RAG systems)  
+☁ Cloud-native development (AWS + Docker)  
+📈 Performance optimization & clean architecture  
+🚀 Shipping real-world projects fast  
 
 ---
 
-### 🔹 Real-Time Chat Application  
-- WebSocket-based messaging system  
-- Redis caching for performance  
-- Fully responsive UI  
-🔗 https://your-project-link.com  
+## 💡 Dev Philosophy  
 
----
-
-### 🔹 Portfolio + Blog Platform  
-- SEO optimized personal website  
-- Markdown blogging system  
-- Deployed on Vercel  
-🔗 https://your-project-link.com  
+✔️ Learn by building  
+✔️ Keep code clean and scalable  
+✔️ Focus on real-world impact  
+✔️ Consistency > Perfection  
 
 ---
 
@@ -106,6 +89,14 @@
 
 ---
 
+## 🐍 Contribution Snake (Your Real Heatmap)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cherizz00/cherizz00/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -127,14 +118,6 @@
 🚀 Master system design  
 ☁ Deep dive into AWS & cloud-native apps  
 🤖 Build advanced AI products  
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
