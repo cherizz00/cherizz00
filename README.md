@@ -1,126 +1,86 @@
-# 🚀 Prasanna Kumar | Full Stack + AI Engineer  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Real+World+Products;React+%7C+Node+%7C+MongoDB+%7C+AI" />
-</p>
+# Prasanna Kumar  
+### Full Stack Engineer | AI Builder | Problem Solver  
 
 ---
 
-## 🔥 About Me  
+## About  
 
-👨‍💻 Full-stack developer specializing in **React, Node.js, MongoDB & AI systems**  
-🚀 I build **real-world, scalable applications**  
-🧠 Currently learning **System Design, AWS & RAG architectures**  
-🤝 Open to collaborations on **startups, open-source & AI tools**  
+I am a full-stack developer focused on building scalable, real-world applications with strong foundations in backend systems and AI integration.
 
----
+I prioritize execution, clean architecture, and practical impact over theoretical knowledge.
 
-## 🧠 Core Focus  
-
-⚡ Building scalable full-stack apps  
-🤖 AI integration (LLMs, RAG systems)  
-☁ Cloud-native development (AWS + Docker)  
-📈 Performance optimization & clean architecture  
-🚀 Shipping real-world projects fast  
+- Stack: React, Node.js, MongoDB, AI  
+- Currently learning: System Design, AWS, RAG architectures  
+- Open to: startups, open-source, and AI collaborations  
 
 ---
 
-## 💡 Dev Philosophy  
+## Core Focus  
 
-✔️ Learn by building  
-✔️ Keep code clean and scalable  
-✔️ Focus on real-world impact  
-✔️ Consistency > Perfection  
-
----
-
-## 🛠 Tech Stack  
-
-### ⚡ Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Building scalable full-stack applications  
+- Designing and integrating AI systems (LLMs, RAG pipelines)  
+- Cloud-native development using AWS and Docker  
+- Writing clean, maintainable, and high-performance code  
+- Rapid product development and iteration  
 
 ---
 
-### 🧩 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+## Tech Stack  
+
+### Languages  
+C, C++, Java, Python, JavaScript, SQL  
+
+### Frameworks and Libraries  
+React, Node.js, Express, Tailwind CSS, Flask  
+
+### Databases  
+MongoDB, MySQL, Redis  
+
+### Tools and DevOps  
+AWS, Docker, Git, GitHub, Postman, Vercel, Netlify  
 
 ---
 
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+## What I Do  
+
+- Build end-to-end full-stack applications  
+- Develop backend systems with scalability in mind  
+- Integrate AI capabilities into real products  
+- Optimize performance and system efficiency  
+- Convert ideas into working products quickly  
 
 ---
 
-### ☁ DevOps & Tools  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Current Focus  
+
+- Mastering system design  
+- Deep diving into cloud-native architecture  
+- Building advanced AI-powered applications  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Philosophy  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherizz00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cherizz00&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherizz00&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+Consistency over motivation  
+Execution over perfection  
+Shipping over planning  
 
 ---
 
-## 🐍 Contribution Snake (Your Real Heatmap)  
+## Connect  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cherizz00/cherizz00/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prasanna-kumar-399364261/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prasanna-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/tuco_20">
-    <img src="https://img.shields.io/badge/X-Tuco-black?style=for-the-badge&logo=x" />
-  </a>
-  <a href="mailto:cherizz007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/prasanna-kumar-399364261  
+- X: https://x.com/tuco_20  
+- Email: cherizz007@gmail.com  
 
 ---
 
-## 🎯 Current Goals  
+## Philosophy  
 
-🚀 Master system design  
-☁ Deep dive into AWS & cloud-native apps  
-🤖 Build advanced AI products  
+Do not just learn technology. Build with it, ship it, and improve continuously.  
 
 ---
 
-## ⚡ Fun Fact  
+## Signature  
 
-I don’t just learn tech — I **ship it fast 🚀**
+I do not chase tutorials. I build real things.  
